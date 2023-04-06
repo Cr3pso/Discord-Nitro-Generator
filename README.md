@@ -1,4 +1,4 @@
-# Discord-Nitro-Generator
+# Discord Nitro Generator
 
 This tool will generate as many random codes as you want and save them into a file.
 
